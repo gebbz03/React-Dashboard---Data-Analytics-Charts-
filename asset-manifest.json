@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Dashboard---Data-Analytics-Charts-/static/css/main.006baab4.chunk.css",
+    "main.js": "/React-Dashboard---Data-Analytics-Charts-/static/js/main.9354b096.chunk.js",
+    "main.js.map": "/React-Dashboard---Data-Analytics-Charts-/static/js/main.9354b096.chunk.js.map",
+    "runtime-main.js": "/React-Dashboard---Data-Analytics-Charts-/static/js/runtime-main.cc509948.js",
+    "runtime-main.js.map": "/React-Dashboard---Data-Analytics-Charts-/static/js/runtime-main.cc509948.js.map",
+    "static/js/2.297ba555.chunk.js": "/React-Dashboard---Data-Analytics-Charts-/static/js/2.297ba555.chunk.js",
+    "static/js/2.297ba555.chunk.js.map": "/React-Dashboard---Data-Analytics-Charts-/static/js/2.297ba555.chunk.js.map",
+    "index.html": "/React-Dashboard---Data-Analytics-Charts-/index.html",
+    "precache-manifest.bccac1b10fa3b7a58dff7b8b6a881e88.js": "/React-Dashboard---Data-Analytics-Charts-/precache-manifest.bccac1b10fa3b7a58dff7b8b6a881e88.js",
+    "service-worker.js": "/React-Dashboard---Data-Analytics-Charts-/service-worker.js",
+    "static/css/main.006baab4.chunk.css.map": "/React-Dashboard---Data-Analytics-Charts-/static/css/main.006baab4.chunk.css.map",
+    "static/js/2.297ba555.chunk.js.LICENSE.txt": "/React-Dashboard---Data-Analytics-Charts-/static/js/2.297ba555.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/React-Dashboard---Data-Analytics-Charts-/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc509948.js",
+    "static/js/2.297ba555.chunk.js",
+    "static/css/main.006baab4.chunk.css",
+    "static/js/main.9354b096.chunk.js"
+  ]
+}
